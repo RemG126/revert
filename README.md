@@ -6,3 +6,7 @@ This is Five RemG
 # bio
 
 I am an otaku
+
+# favorite
+
+I love anime
